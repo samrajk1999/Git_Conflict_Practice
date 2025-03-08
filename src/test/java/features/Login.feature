@@ -21,5 +21,6 @@ Feature: Automation Testing POC
     Then Verify that ACCOUNT DELETED is visible and click Continue button
 
     Examples: 
-      | name  | email                 | title | password  | Day | Month    | Year | FirstName | LastName | Company   | Address   | Country | State      | City    | Zipcode | MobileNumber | username |
-      | rebel | rebelsam007@gmail.com | Mr    | admin1234 |  12 | December | 1990 | Sam       | Raj      | accenture | Titelpark | India   | Tamil Nadu | Chennai |  600113 |   9984628044 | sam      |
+      | name    | email                 | title | password  | Day | Month    | Year | FirstName | LastName | Company   | Address          | Country | State      | City    | Zipcode | MobileNumber | username |
+      | rebel   | rebelsam007@gmail.com | Mr    | admin1234 |  12 | December | 1990 | Sam       | Raj      | accenture | Titelpark        | India   | Tamil Nadu | Chennai |  600113 |   9984628044 | sam      |
+      | Karthik | karthik0101@gmail.com | Mr    | admin1234 |  05 | August   | 1989 | Karthik   | Suburaj  | Zoho      | Chennai One Park | India   | Tamil Nadu | Chennai |  600023 |   9845458044 | Karthik  |
