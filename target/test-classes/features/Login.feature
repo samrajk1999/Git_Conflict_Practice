@@ -23,3 +23,4 @@ Feature: Automation Testing POC
     Examples: 
       | name  | email                 | title | password  | Day | Month    | Year | FirstName | LastName | Company   | Address   | Country | State      | City    | Zipcode | MobileNumber | username |
       | rebel | rebelsam007@gmail.com | Mr    | admin1234 |  12 | December | 1990 | Sam       | Raj      | accenture | Titelpark | India   | Tamil Nadu | Chennai |  600113 |   9984628044 | sam      |
+      | rocky | rockysam007@gmail.com | Mr    | admin1234 |  24 | January  | 1999 | Jhon      | Shivam   | Infosys   | Sipcot    | India   | Tamil Nadu | Chennai |  600243 |    841329406 | Jhon     |
